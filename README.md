@@ -1,6 +1,6 @@
 # Frontend Mentor - Solución de página de recetas
 
-Esta es una solución al [desafío de página de recetas en Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Los desafíos de Frontend Mentor te ayudan a mejorar tus habilidades de programación creando proyectos realistas.
+Esta es una solución al [desafío de página de recetas en Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Los desafíos de Frontend Mentor te ayudan a mejorar tus habilidades de programación creando proyectos realistas.
 
 ## Tabla de contenido
 
